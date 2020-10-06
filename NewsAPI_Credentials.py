@@ -1,4 +1,4 @@
 ### News API credentials ###
-api_key = '2863a4b8c7304f77b614fda3779f6203'
+api_key='344d14da92a541f7ae15eaa6b6ced22a'
 
 ### WebhoseIO credentials ###
