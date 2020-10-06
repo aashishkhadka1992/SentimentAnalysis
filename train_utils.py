@@ -155,7 +155,7 @@ def ngram_vectorize(training_texts, training_labels, validating_texts, testing_t
     del training_texts, validating_texts, testing_texts
 
     # Over and/or under sampling to check class imbalance
-    # x_train, training_labels = over_under_sampling(x_train, training_labels)
+    x_train, training_labels = over_under_sampling(x_train, training_labels)
 
     # Slect top 'k' of the vectorized features.
     selector = SelectKBest(f_classif, k=min(top_k, x_train.shape[1]))
