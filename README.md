@@ -1,2 +1,2 @@
 # SentimentAnalysis
-Sentiment Analysis for a company/product
+Sentiment Analysis for a specific query terms
