@@ -1,4 +1,4 @@
-### Twitter Credentials ###
+# Twitter Credentials
 
 consumer_key = '0APfsWAvvzzGYdte0jeZ3aGkm'
 consumer_secret_key = 'qSOWgmmZPD9k3Vtq8gqOUvivR9Ru4yxvfwb2tfDZv74knhUcXV'

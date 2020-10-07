@@ -1,0 +1,7 @@
+/.gitignore
+/.idea
+/.ipynb_checkpoints
+/__pycache__/
+/artifacts/
+/filtered_articles_df.csv
+/relevant_news.csv
